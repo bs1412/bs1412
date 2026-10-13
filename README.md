@@ -15,7 +15,9 @@
 ## 📌 项目
 
 - [小食光点餐](https://github.com/bs1412/xiaoshiguang-order) —— 微信小程序点餐应用（点餐、购物车、模拟支付、订单）
-- 更多项目陆续整理中……
+- [大兔兔营救 Tuutua](https://github.com/bs1412/tuutua-rescue) —— C# 控制台 RPG 小游戏
+- [植物简单科普](https://github.com/bs1412/plant-science) —— 多页面植物科普网站（HTML/CSS/JS）
+- [Python 机器学习实验](https://github.com/bs1412/python-ml-course) —— 分类、聚类、特征选择与期末项目
 
 ## 📈 统计
 
